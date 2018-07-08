@@ -1,0 +1,10 @@
+BasedOnStyle: Google
+IndentWidth: 4
+BreakBeforeBinaryOperators: NonAssignment
+AccessModifierOffset: -4
+AlignConsecutiveAssignments: true
+DerivePointerAlignment: false
+PointerAlignment: Left
+KeepEmptyLinesAtTheStartOfBlocks: true
+CommentPragmas: '^lint'
+ReflowComments: true
