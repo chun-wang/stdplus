@@ -1,6 +1,8 @@
 #ifndef STDPLUS_MUTEX_
 #define STDPLUS_MUTEX_
 
+#include <pthread.h>
+
 namespace stdplus {
 
 class mutex
